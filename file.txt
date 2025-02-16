@@ -2,3 +2,6 @@ Good morning.
 creating a new file in Git 
 creating a new branch
 merge into the main
+
+changes made in the text file.
+
