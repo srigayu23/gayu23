@@ -1,7 +1,7 @@
 Good morning.
 creating a new file in Git 
-editing the file
-how are yu?
+creating a new branch
+merge into the main
 
-hello github
+changes made in the text file.
 
